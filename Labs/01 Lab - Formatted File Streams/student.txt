@@ -1,0 +1,5 @@
+1 Ali Imran 75
+2 Asif Ali 87
+3 Naveed Aslam 56
+4 Shahis Farid 100
+5 Hassan Khan 98
