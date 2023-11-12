@@ -1,1 +1,1 @@
-# DSA-Labs-Old-
+# Labs of DSA Course (Spring 2022)
